@@ -17,7 +17,10 @@ hey, what's up. most people don't really look at github projects anymore, they j
 
 ---
 
+
 <div align="left">
-  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Benali Oussama on LinkedIn" title="Follow Benali Oussama on LinkedIn"/>](https://www.linkedin.com/in/oussama-benali-23959625a/)
+  <a href="https://www.linkedin.com/in/oussama-benali-23959625a/">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40" align="center" alt="Follow Benali Oussama on LinkedIn" title="Follow Benali Oussama on LinkedIn"/>
+  </a>
 </div>
 
