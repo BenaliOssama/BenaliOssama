@@ -1,9 +1,27 @@
-what do you think of the style of my github, 
-hey, what's up. most people don’t really look at github projects anymore, they just ask AI for the code. i use AI too, it’s a great tool. but sometimes i still like to open **vim at 2am** and write code slowly, just to talk directly to the computer. this profile has a little of that work: projects from **zone01 oujda (01-edu)**, rust experiments, systems programming ideas, bootloader or networking stuff, random unfinished repos, and things that only exist because the idea sounded interesting. many projects are messy or incomplete and that’s fine. writing code like this is a kind of meditation for me. if you enjoy that old-school side of programming too, feel free to explore the repos.
+hey, what's up. most people don't really look at github projects anymore, they just ask AI for the code. i use AI too, it's a great tool. but sometimes i still like to open **vim at 2am** and write code slowly, just to talk directly to the computer. this profile has a little of that work: projects from **zone01 oujda (01-edu)**, rust experiments, systems programming ideas, bootloader or networking stuff, random unfinished repos, and things that only exist because the idea sounded interesting. many projects are messy or incomplete and that's fine. writing code like this is a kind of meditation for me. if you enjoy that old-school side of programming too, feel free to explore the repos.
+
+---
+
+**🐧 linux &nbsp;·&nbsp; 🦀 rust &nbsp;·&nbsp; 🐹 go &nbsp;·&nbsp; ⚙️ systems &nbsp;·&nbsp; 🔩 low-level**
+
+---
+
+> *"If you can't explain it simply, you don't understand it well enough."*
+> — Richard Feynman
+
+> *"A theory with mathematical beauty is more likely to be correct."*
+> — Paul Dirac
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenaliOssama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenaliOssama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-<h3 align="left">Connect with me:</h3>
-<p>You can reach me at the following accounts!</p>
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Benali Oussama on LinkedIn" title="Follow Benali Oussama on LinkedIn"/>](https://www.linkedin.com/in/oussama-benali-23959625a/)
-###
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/oussama-benali-23959625a/">
+    <img src="https://img.shields.io/badge/linkedin-oussama--benali-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
