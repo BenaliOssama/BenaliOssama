@@ -9,9 +9,6 @@ hey, what's up. most people don't really look at github projects anymore, they j
 > *"If you can't explain it simply, you don't understand it well enough."*
 > — Richard Feynman
 
-> *"A theory with mathematical beauty is more likely to be correct."*
-> — Paul Dirac
-
 ---
 
 <div align="center">
@@ -20,8 +17,7 @@ hey, what's up. most people don't really look at github projects anymore, they j
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/oussama-benali-23959625a/">
-    <img src="https://img.shields.io/badge/linkedin-oussama--benali-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/badge/linkedin-oussama--benali-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
+
