@@ -2,7 +2,7 @@ hey, what's up. most people don't really look at github projects anymore, they j
 
 ---
 
-**🐧 linux &nbsp;·&nbsp; 🦀 rust &nbsp;·&nbsp; 🐹 go &nbsp;·&nbsp; ⚙️ systems &nbsp;·&nbsp; 🔩 low-level**
+**🐧 linux &nbsp;·&nbsp; 🦀 rust &nbsp;·&nbsp; 🐹 go &nbsp;·&nbsp; ⚙️ systems/backend &nbsp;·&nbsp; 🔩 low-level**
 
 ---
 
