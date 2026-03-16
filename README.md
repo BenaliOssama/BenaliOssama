@@ -7,5 +7,3 @@ hey, what's up. most people don’t really look at github projects anymore, they
 <p>You can reach me at the following accounts!</p>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Benali Oussama on LinkedIn" title="Follow Benali Oussama on LinkedIn"/>](https://www.linkedin.com/in/oussama-benali-23959625a/)
 ###
-
-that introduction about me, do not change it at all not even a one little but you can change the style or add or remove something
