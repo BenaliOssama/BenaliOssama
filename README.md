@@ -6,7 +6,7 @@ hey, what's up. most people don't really look at github projects anymore, they j
 
 ---
 
-> *"If you can't explain it simply, you don't understand it well enough."*
+> *"What I cannot create, I do not understand."*
 > — Richard Feynman
 
 ---
