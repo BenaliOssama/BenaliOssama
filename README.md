@@ -18,7 +18,6 @@ hey, what's up. most people don't really look at github projects anymore, they j
 ---
 
 <div align="left">
-  <img src="https://img.shields.io/badge/linkedin-oussama--benali-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Benali Oussama on LinkedIn" title="Follow Benali Oussama on LinkedIn"/>
 </div>
 
