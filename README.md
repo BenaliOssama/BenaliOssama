@@ -1,8 +1,7 @@
 hey, what's up. most people don’t really look at github projects anymore, they just ask AI for the code. i use AI too, it’s a great tool. but sometimes i still like to open **vim at 2am** and write code slowly, just to talk directly to the computer. this profile has a little of that work: projects from **zone01 oujda (01-edu)**, rust experiments, systems programming ideas, bootloader or networking stuff, random unfinished repos, and things that only exist because the idea sounded interesting. many projects are messy or incomplete and that’s fine. writing code like this is a kind of meditation for me. if you enjoy that old-school side of programming too, feel free to explore the repos.
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenaliOssama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenaliOssama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
