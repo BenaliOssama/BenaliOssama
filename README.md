@@ -1,5 +1,3 @@
----
-
 **🐧 linux &nbsp;·&nbsp; 🦀 rust &nbsp;·&nbsp; 🐹 go &nbsp;·&nbsp; ⚙️ systems/backend &nbsp;·&nbsp; 🔩 low-level**
 
 ---
